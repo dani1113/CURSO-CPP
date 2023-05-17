@@ -8,6 +8,9 @@
 COMPILADOR
 # Ignoro este fichero porque lo usaré como README más adelante
 CONTENIDOS/0 - CONTENIDOS CURSO C.docx
+# Archivos Word
+.docx
+
 
 ### VisualStudioCode ###
 .vscode/*
