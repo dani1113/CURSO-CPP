@@ -24,24 +24,24 @@
     - [C++ Core Language Vs Standard Library Vs STL](https://youtu.be/8jLOx1hD3_o?t=10602)
 #
 3. **VARIABLES Y TIPOS DE DATOS**
-    - [03:00:47 Introducción A Las Variables Y Los Tipos De Datos](https://youtu.be/8jLOx1hD3_o?t=10847)
-    - [03:05:05 Sistemas Numéricos](https://youtu.be/8jLOx1hD3_o?t=11105)
-    - [03:21:52 Variables E Integers](https://youtu.be/8jLOx1hD3_o?t=12112)
-    - [03:40:44 Modificadores De Integers](https://youtu.be/8jLOx1hD3_o?t=13244)
-    - [03:54:00 Números Decimales](https://youtu.be/8jLOx1hD3_o?t=14040)
-    - [04:16:39 Booleans](https://youtu.be/8jLOx1hD3_o?t=15399)
-    - [04:24:49 Caracteres Y Texto](https://youtu.be/8jLOx1hD3_o?t=15889)
-    - [04:32:05 Auto](https://youtu.be/8jLOx1hD3_o?t=16326)
-    - [04:38:06 Asignaciones](https://youtu.be/8jLOx1hD3_o?t=16686)
-    - [04:45:42 Resumen](https://youtu.be/8jLOx1hD3_o?t=17142)
+    - [Introducción A Las Variables Y Los Tipos De Datos](https://youtu.be/8jLOx1hD3_o?t=10847)
+    - [Sistemas Numéricos](https://youtu.be/8jLOx1hD3_o?t=11105)
+    - [Variables E Integers](https://youtu.be/8jLOx1hD3_o?t=12112)
+    - [Modificadores De Integers](https://youtu.be/8jLOx1hD3_o?t=13244)
+    - [Números Decimales](https://youtu.be/8jLOx1hD3_o?t=14040)
+    - [Booleans](https://youtu.be/8jLOx1hD3_o?t=15399)
+    - [Caracteres Y Texto](https://youtu.be/8jLOx1hD3_o?t=15889)
+    - [Auto](https://youtu.be/8jLOx1hD3_o?t=16326)
+    - [Asignaciones](https://youtu.be/8jLOx1hD3_o?t=16686)
+    - [Resumen](https://youtu.be/8jLOx1hD3_o?t=17142)
 #
 4. **OPERACIONES**
-    - [04:47:31 Operaciones Básicas](https://youtu.be/8jLOx1hD3_o?t=17251)
-    - [04:58:01 Precedencia Y Asociatividad](https://youtu.be/8jLOx1hD3_o?t=17881)
-    - [05:12:06 Operadores De Incremento Y Decremento Prefijos Y Postfijos](https://youtu.be/8jLOx1hD3_o?t=18726)
-    - [05:23:22 Operadores Compuestos](https://youtu.be/8jLOx1hD3_o?t=19402)
-    - [05:31:43 Operadores Relaciones](https://youtu.be/8jLOx1hD3_o?t=19903)
-    - [05:40:51 Operadores Lógicos](https://youtu.be/8jLOx1hD3_o?t=20451)
+    - [Operaciones Básicas](https://youtu.be/8jLOx1hD3_o?t=17251)
+    - [Precedencia Y Asociatividad](https://youtu.be/8jLOx1hD3_o?t=17881)
+    - [Operadores De Incremento Y Decremento Prefijos Y Postfijos](https://youtu.be/8jLOx1hD3_o?t=18726)
+    - [Operadores Compuestos](https://youtu.be/8jLOx1hD3_o?t=19402)
+    - [Operadores Relaciones](https://youtu.be/8jLOx1hD3_o?t=19903)
+    - [Operadores Lógicos](https://youtu.be/8jLOx1hD3_o?t=20451)
 
 <!-- Seguir actualizando el README -->
 
