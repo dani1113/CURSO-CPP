@@ -1,0 +1,66 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "cppbuild",
+			"label": "Compilado con GCC 12.2.0",
+			"command": "C:\\Compilador C++\\mingw64\\bin\\g++.exe",
+			"args": [
+				"-g",
+				"-std=c++2b",
+				"${workspaceFolder}/*.cpp",
+				"-o",
+				"${fileDirname}\\miPrograma.exe"
+			],
+			"options": {
+				"cwd": "${fileDirname}"
+			},
+			"problemMatcher": [
+				"$gcc"
+			],
+			"group": "build",
+			"detail": "compilador: \"C:\\Compilador C++\\mingw64\\bin\\g++.exe\""
+		},
+		{
+			"type": "cppbuild",
+			"label": "Compilado con Clang 14.0.6",
+			"command": "C:\\Compilador C++\\mingw64\\bin\\clang++.exe",
+			"args": [
+				"-g",
+				"-std=c++2b",
+				"${workspaceFolder}/*.cpp",
+				"-o",
+				"${fileDirname}\\miPrograma.exe"
+			],
+			"options": {
+				"cwd": "${fileDirname}"
+			},
+			"problemMatcher": [
+				"$gcc"
+			],
+			"group": "build",
+			"detail": "compilador: \"C:\\Compilador C++\\mingw64\\bin\\clang++.exe\""
+		},
+		{
+			"type": "cppbuild",
+			"label": "Compilado con MSVC",
+			"command": "cl.exe",
+			"args": [
+				"/Zi",
+				"/std:c++latest",
+				"/EHsc",
+				"/Fe:",
+				"${fileDirname}/miPrograma.exe",
+				"${workspaceFolder}/*.cpp"
+			],
+			"options": {
+				"cwd": "${fileDirname}"
+			},
+			"problemMatcher": [
+				"$msCompile"
+			],
+			"group": "build",
+			"detail": "compilador: cl.exe"
+		}
+	]
+}

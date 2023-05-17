@@ -1,0 +1,16 @@
+# FICHEROS IGNORADOS POR GIT
+
+### Ejecutables
+*.exe
+
+### Proyecto
+# Carpeta "Compilador"
+COMPILADOR
+# Ignoro este fichero porque lo usaré como README más adelante
+CONTENIDOS/0 - CONTENIDOS CURSO C.docx
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/c_cpp_properties.json
