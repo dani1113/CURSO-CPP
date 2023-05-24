@@ -42,6 +42,8 @@
     - [Operadores Compuestos](https://youtu.be/8jLOx1hD3_o?t=19402)
     - [Operadores Relaciones](https://youtu.be/8jLOx1hD3_o?t=19903)
     - [Operadores Lógicos](https://youtu.be/8jLOx1hD3_o?t=20451)
+    - [Formato A La Salida De Datos Con Manipuladores](https://youtu.be/8jLOx1hD3_o?t=21369)
+    - [Límites numéricos](https://youtu.be/8jLOx1hD3_o?t=23606)
 
 <!-- Seguir actualizando el README -->
 
