@@ -10,6 +10,7 @@ COMPILADOR
 CONTENIDOS/0 - CONTENIDOS CURSO C.docx
 # Archivos Word
 *.docx
+*.tmp
 
 ### VisualStudioCode ###
 .vscode/*
