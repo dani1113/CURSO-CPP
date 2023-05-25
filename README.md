@@ -49,7 +49,13 @@
     - [Resumen](https://youtu.be/8jLOx1hD3_o?t=25181)
 #
 5. **CONTROL DE FLUJOS**
-    - [Control De Flujos: Introducción A La Programación Condicional](https://youtu.be/8jLOx1hD3_o?t=25319)
+    - [Introducción A La Programación Condicional](https://youtu.be/8jLOx1hD3_o?t=25319)
+    - [if](https://youtu.be/8jLOx1hD3_o?t=25410)
+    - [else if](https://youtu.be/8jLOx1hD3_o?t=26449)
+    - [switch](https://youtu.be/8jLOx1hD3_o?t=26926)
+    - [Operador Ternario](https://youtu.be/8jLOx1hD3_o?t=27765)
+    - [Resumen](https://youtu.be/8jLOx1hD3_o?t=28340)
+
 <!-- Seguir actualizando el README -->
 
 ---
