@@ -55,7 +55,13 @@
     - [switch](https://youtu.be/8jLOx1hD3_o?t=26926)
     - [Operador Ternario](https://youtu.be/8jLOx1hD3_o?t=27765)
     - [Resumen](https://youtu.be/8jLOx1hD3_o?t=28340)
-
+#
+6. **BUCLES**
+    - [Introducción A Los Bucles](https://youtu.be/8jLOx1hD3_o?t=28429)
+    - [Bucle For](https://youtu.be/8jLOx1hD3_o?t=28520)
+    - [Bucle While](https://youtu.be/8jLOx1hD3_o?t=30321)
+    - [Bucle Do While](https://youtu.be/8jLOx1hD3_o?t=31014)
+#
 <!-- Seguir actualizando el README -->
 
 ---
