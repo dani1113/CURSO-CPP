@@ -28,7 +28,7 @@ int main(){
 
     for (unsigned int i = 0; i < 10; i++) //En un for el incremento del operador puede ser posterior o previo, por lo general no hay problema, a no ser que se realize algo muy concreto, no va a influir
     {
-            std::cout << i << " - Mostrando por pantalla..." << std::endl;
+		std::cout << i << " - Mostrando por pantalla..." << std::endl;
     }
     std::cout << "Fin del bucle." << std::endl;
 

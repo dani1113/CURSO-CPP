@@ -62,6 +62,14 @@
     - [Bucle While](https://youtu.be/8jLOx1hD3_o?t=30321)
     - [Bucle Do While](https://youtu.be/8jLOx1hD3_o?t=31014)
 #
+7. **ARRAYS**
+    - [Introducción A Los Arrays](https://youtu.be/8jLOx1hD3_o?t=31628)
+    - [Declaración Y Uso De Los Arrays](https://youtu.be/8jLOx1hD3_o?t=31725)
+    - [Tamaño De Un Array](https://youtu.be/8jLOx1hD3_o?t=33353)
+    - [Arrays De Caracteres](https://youtu.be/8jLOx1hD3_o?t=34004)
+    - [Límites De Un Array](https://youtu.be/8jLOx1hD3_o?t=35206)
+#
+8. **PUNTEROS**
 <!-- Seguir actualizando el README -->
 
 ---
