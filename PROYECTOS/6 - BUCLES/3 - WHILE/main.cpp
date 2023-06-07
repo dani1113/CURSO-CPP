@@ -47,10 +47,18 @@ int main(){
     {
         std::cout << i <<" - Mostrando por pantalla..." << std::endl;
         i++;
+		
+		if (i == 30)
+		{
+			std::cout << "La i va por 30." << std::endl;
+			continue; //Cuando i = 30, me salgo del if y continuo con la ejecución.
+		}
+		
         if (i == 50)
         {
-            std::cout << "Fin del bucle." << std::endl;
-            break; //Cuando i = 50, me salgo del bucle infinito
+            std::cout << "La i va por 50." << std::endl;
+			std::cout << "Fin del bucle." << std::endl;
+            break; //Cuando i = 50, me salgo del bucle infinito (sales del while)
         }
     }
     
