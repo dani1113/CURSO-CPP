@@ -59,7 +59,7 @@ int main(){
 
     //No puedes modificar valores de un array constante
     const int MANZANAS[9] = {12, 7, 5, 45, 43, 23, 67, 21, 2};
-    //manzanas [2] = 8; -->Z Error de compilador, si un array es declarado como constante (const), los valores de los elementos no pueden modificarse
+    //MANZANAS[2] = 8; --> Error de compilador, si un array es declarado como constante (const), los valores de los elementos no pueden modificarse
 
     //==================================================================================
     std::cout << std::endl;
@@ -115,25 +115,26 @@ int main(){
     //==================================================================================
     
     //Declarar e inicializar un array a la vez, pero omitiendo el tamaño del array
-    std::cout << "Declarar e inicializar un array a la vez omitiendo el tamaño del array y recorriendolo con un for in range: " << std::endl;
+    std::cout << "Declarar e inicializar un array a la vez omitiendo el tamaño del array y recorrerlo con un for in range: " << std::endl;
 
     int grupos[] = {12, 7, 5, 45, 43, 23, 67, 21, 2}; //El compilador deducirá el tamaño en base al número de elementos especificados
     //int grupos[]; --> Error de compilador, ya que este necesita saber de alguna forma el tamaño del array.
 
     /*En vez de usar un for normal, voy a usar un for in range, para evitar hardcodear el numero de elementos del array en el for normal. 
-    También podría obtener el número de elementos del array y ya pero aún no se como, es la siguiente lección del curso, además esto es otra forma de hacerlo igual de válida.
+    También podría obtener el número de elementos del array y ya, pero aún no se como, es la siguiente lección del curso, además esto es otra forma de hacerlo igual de válida.
     for (size_t i = 0; i < 5; i++)
     {
         std::cout << "grupos[" << i << "]: " << grupos[i] << std::endl;
     }
     */
     
-    int i = 0; //Creo mi propio iterador y lo incremento por cada vuelta del bucle para poder mostrar el std::cout como quiero. No es lo óptimo y es un poco chapuza, pero quería mostrarlo por pantalla así para el ejemplo.
+    int i = 0; //Creo mi propio iterador y lo incremento por cada vuelta del bucle para poder mostrar el std::cout como quiero. No es lo óptimo y es un poco chapuza, pero quería mostrarlo así en la consola para que el ejemplo sea más claro.
 	//Si necesitas los índices si o si lo mejor es usar un for normal sabiendo el número de elementos, para ello ver la siguiente lección del curso.
 
     //for in range
     for (auto valorElemento : grupos)
     {
+        //std::cout << "Valor elemento: " << valorElemento << std::endl; --> //Si solo te importan los valores y te dan igual los índices puedes hacerlo así:
         std::cout << "grupos[" << i << "]: " << valorElemento << std::endl;
         i++;
     }
