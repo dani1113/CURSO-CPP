@@ -70,6 +70,16 @@
     - [Límites De Un Array](https://youtu.be/8jLOx1hD3_o?t=35206)
 #
 8. **PUNTEROS**
+    - [Introducción A Los Punteros]()
+    - [Declarar Y Usar Punteros]()
+    - []()
+    - []()
+    - []()
+    - []()
+    - []()
+    - []()
+    - []()
+    - []()
 <!-- Seguir actualizando el README -->
 
 ---
