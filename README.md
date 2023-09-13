@@ -72,7 +72,7 @@
 8. **PUNTEROS**
     - [Introducción A Los Punteros](https://youtu.be/8jLOx1hD3_o?t=35604s)
     - [Declaración Y Uso De Punteros](https://youtu.be/8jLOx1hD3_o?t=35764s)
-    - [](https://youtu.be/8jLOx1hD3_o?t=36889s)
+    - [Punteros De Tipo Char](https://youtu.be/8jLOx1hD3_o?t=36889s)
     - [](https://youtu.be/8jLOx1hD3_o?t=37647s)
     - [](https://youtu.be/8jLOx1hD3_o?t=38191s)
     - [](https://youtu.be/8jLOx1hD3_o?t=39945s)
