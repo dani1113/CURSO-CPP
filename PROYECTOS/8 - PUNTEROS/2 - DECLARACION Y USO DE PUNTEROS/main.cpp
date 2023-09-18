@@ -3,13 +3,22 @@
 int main(){
     setlocale(LC_ALL, ".UTF8");
 
-    //Es recomendable incializar siempre los punteros tras declararlos
+    //Declarar un puntero e inicializarlo más tarde
+    int *punteroA; //Puntero sin inicializar, contiene una dirección con basura
+    int numeroPunteroA = 12;
+    punteroA = &numeroPunteroA; //Apunto a una dirección válida
+
+
     //Declarar e inicializar un puntero implícitamente
     int * punteroNumeroInt {}; //{} incializa el puntero implícitamente igualandolo a 0, es decir nullptr (null pointer)
     double * punteroNumeroDecimal {}; //El puntero se incializa como null explícitamente
+
+
     //Declarar e inicializar un puntero explícitamente
     int * punteroNumeroInt1 {nullptr}; //{} incializa el puntero implícitamente igualandolo a 0, es decir nullptr (null pointer)
     double * punteroNumeroDecimal1 {nullptr}; //El puntero se incializa como null explícitamente
+    //Tambien se puede asignar el puntero a nullptr para inicializarlo --> int * punteroNumeroInt1 = nullptr;
+
 
     //El tamaño de los punteros coincide con el tamaño de las variables, pero no con el de las direcciones almacenadas por el puntero.
     std::cout << "Tamaño de las variables y los punteros:" << std::endl;
@@ -20,6 +29,7 @@ int main(){
     std::cout << "sizeof(double*): " << sizeof(double*) << std::endl; 
     std::cout << "sizeof(punteroNumeroInt1): " << sizeof(punteroNumeroInt1) << std::endl; 
     std::cout << "sizeof(punteroNumeroDecimal1): " << sizeof(punteroNumeroDecimal1) << std::endl; 
+
 
     //No importa si el * se pone al lado del tipo de dato, de la variable o entre ambos
     int* punteroNumeroInt2 {nullptr};
@@ -35,6 +45,7 @@ int main(){
     //Es recomendable declarar cada puntero y en general cada variable en líneas distintas porque se pueden dar lugar a errores
     std::cout << "Más tamaños de variables y los punteros:" << std::endl;
     
+
     //En este caso solo punteroNumeroInt5 y punteroNumeroInt6 serán punteros, las otras 2 variables no, ya que son las únicas que tienen el *.
     int* punteroNumeroInt5 {nullptr}, otraVariableInt1;
     int* punteroNumeroInt6 {nullptr}, otraVariableInt2;
@@ -49,6 +60,16 @@ int main(){
     std::cout << "=======================================================" << std::endl;
     std::cout << std::endl;
     //==================================================================================
+
+    //No puedes usar un puntero que no está inicializado
+    int *punteroB; //Puntero sin inicializar, contiene una dirección con basura
+    //*punteroB = 55; //ERROR --> No puedes escribir en un puntero que contiene una dirección con basura
+
+
+    //No puedes usar un puntero que está incializado como null
+    int *punteroC = nullptr; //Puntero inicializado como null (no apunta a nada)
+    //*punteroC = 33; //ERROR --> No puedes escribir en un puntero que está inicializado como null (no apunta a nada)
+
 
     //Inicializar punteros y asignarles datos
     std::cout << "Inicializar punteros y asignarles datos: " << std::endl;
@@ -74,7 +95,6 @@ int main(){
     std::cout << "int var 2 (el valor de la variable): " << intVar2 << std::endl;
     std::cout << "punteroIntVar 1 (la nueva dirección de memoria asignada al puntero ya existente): " << punteroIntVar << std::endl;
     
-    //==================================================================================
 
     //No se puede asignar la dirección de memoria de un tipo de dato que no corresponde con el del puntero.
     int *punteroNumeroInt7 = nullptr;

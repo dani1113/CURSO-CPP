@@ -75,7 +75,7 @@
     - [Punteros De Tipo Char](https://youtu.be/8jLOx1hD3_o?t=36889s)
     - [Mapa De Memoria De Un Programa](https://youtu.be/8jLOx1hD3_o?t=37647s)
     - [Asignación Dinámica De Memoria (Dynamic Memory Allocation)](https://youtu.be/8jLOx1hD3_o?t=38191s)
-    - [](https://youtu.be/8jLOx1hD3_o?t=39945s)
+    - [Referencias colgantes (Dangling Pointers)](https://youtu.be/8jLOx1hD3_o?t=39945s)
     - [](https://youtu.be/8jLOx1hD3_o?t=41055s)
     - [](https://youtu.be/8jLOx1hD3_o?t=41881s)
     - [](https://youtu.be/8jLOx1hD3_o?t=42318s)
