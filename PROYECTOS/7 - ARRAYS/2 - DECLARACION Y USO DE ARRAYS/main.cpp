@@ -3,6 +3,20 @@
 int main(){
     setlocale(LC_ALL, ".UTF8");
 
+    /*
+        ----------
+        *AVANZADO*
+        ----------
+
+        IR AL CAPÍTULO 8.10: ARRAYS DINÁMICOS
+
+        Conforme he avanzado con el curso, he aprendido que una variable de array en esencia funciona como un puntero,
+        guardando la dirección de memoria del primer elemento del array y no las del resto.
+
+        Más info: https://youtu.be/Fa0PH88k8e0?si=2yRrn9m2e2iLrxH-
+    */
+
+
     //Declarar un array de int
     int puntuaciones[10];
 
