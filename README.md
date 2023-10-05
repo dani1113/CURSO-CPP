@@ -82,7 +82,15 @@
     - [Arrays Dinámicos](https://youtu.be/8jLOx1hD3_o?t=42945s)
 #
 9. **REFERENCIAS**
-    - []()
+    - [Introducción A Las Referencias](https://youtu.be/8jLOx1hD3_o?t=43865s)
+    - [Declaración Y Uso De Referencias](https://youtu.be/8jLOx1hD3_o?t=43918s)
+    - [Referencias Vs. Punteros](https://youtu.be/8jLOx1hD3_o?t=44549s)
+    - [Referencias Y Punteros Constantes](https://youtu.be/8jLOx1hD3_o?t=45446s)
+	
+9. **MANIPULACIÓN DE CARACTERES Y STRINGS**
+    - [Introducción A La Manipulación de Caracteres Y Strings](https://youtu.be/8jLOx1hD3_o?t=45870s)
+	- []()
+
 <!-- Seguir actualizando el README -->
 
 ---
