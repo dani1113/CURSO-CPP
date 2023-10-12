@@ -90,7 +90,8 @@
 9. **MANIPULACIÓN DE CARACTERES Y STRINGS**
     - [Introducción A La Manipulación de Caracteres Y Strings](https://youtu.be/8jLOx1hD3_o?t=45870s)
 	- [Manipulación De Caracteres](https://youtu.be/8jLOx1hD3_o?t=45985s)
-	- [Manipulación De C-String](https://youtu.be/8jLOx1hD3_o?t=47369s)
+	- [Manipulación De C-Strings](https://youtu.be/8jLOx1hD3_o?t=47369s)
+	- [Concatenación Y Copia De C-Strings](https://youtu.be/8jLOx1hD3_o?t=49302s)
 	- []()
 <!-- Seguir actualizando el README -->
 
