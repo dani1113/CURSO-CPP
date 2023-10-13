@@ -92,7 +92,8 @@
 	- [Manipulación De Caracteres](https://youtu.be/8jLOx1hD3_o?t=45985s)
 	- [Manipulación De C-Strings](https://youtu.be/8jLOx1hD3_o?t=47369s)
 	- [Concatenación Y Copia De C-Strings](https://youtu.be/8jLOx1hD3_o?t=49302s)
-	- []()
+	- [Introducción A std::string](https://youtu.be/8jLOx1hD3_o?t=50479s)
+	- [Declaración Y Uso De std::string]()
 <!-- Seguir actualizando el README -->
 
 ---
